@@ -22,7 +22,7 @@ int main() {
     cout << "Ingrese el semestre ";
     cin >> semestre;
 
-    cout << "--- Datos del estudiante ---"<<endl;
+    cout << "Datos del estudiante"<<endl;
     cout << "Nombre; " <<nombre << endl;
     cout << "Edad; " <<edad << endl;
     cout << "carrera; " <<carrera << endl;
